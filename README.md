@@ -275,3 +275,7 @@ Projektet visade också hur Power Automate kan fungera som lim mellan olika tjä
 Jag lärde mig dessutom hur mycket valet av trigger styr ett flöde. Om ett flöde ska köras när något skapas, när något ändras, enligt ett schema eller vid ett HTTP-anrop avgör både när det körs och hur ofta, och fel trigger kan ge dubbla notiser eller missade ärenden.
 
 Till sist såg jag värdet av dokumentation och styrning i en miljö som flera delar på. Med namnstandard, DLP-policyer och dokumenterade inaktiva flöden går det att förstå och förvalta miljön även för den som inte byggde den. Ibland räcker det dessutom med en inställning i SharePoint i stället för ett helt flöde.
+
+---
+
+*Fler projekt finns på min [GitHub-profil](https://github.com/adrianahlborg404-png).*
